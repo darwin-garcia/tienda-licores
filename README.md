@@ -2,9 +2,13 @@
 
 Hola! Bienvenido a la aplicacion **Bar**. 
 Es una aplicacion de escritorio Java AWT con sistema de ingreso con **CRUD**.
+
 El ingreso a la aplicacion: 
+
 Usuario: sena
+
 passwd: 1234
+
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![NetBeans IDE](https://img.shields.io/badge/NetBeansIDE-1B6AC6.svg?style=for-the-badge&logo=apache-netbeans-ide&logoColor=white)
 
